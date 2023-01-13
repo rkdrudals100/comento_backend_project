@@ -31,8 +31,6 @@
   ![image](https://user-images.githubusercontent.com/74872542/212350598-969d33a4-b318-4816-b10c-3906b8942576.png)
   
   <br/><br/>
-  
-  
 3.	Mybatis 설치
   3.1 아직 설정하지 못했습니다.
  <br/><br/> 
