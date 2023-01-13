@@ -21,11 +21,11 @@
   2.3	이클립스 마켓플레이스에서 Spring Tools 3 (Standalone Edition) 3.9.12.RELEASE 설치 후 웹 프로젝트를 생성하였고 pom.xml에서 자바, 스프링 버전 등을 수정하였습니다.
   2.4	톰캣 9.0버전과 생성한 프로젝트를 연동해서 서버를 띄워보았습니다.
   <br/>
-  ![image](https://user-images.githubusercontent.com/74872542/212348734-f9310236-9674-486e-985b-2e221615229f.png)
+  ![image](https://user-images.githubusercontent.com/74872542/212350506-50a502bf-c009-4aad-9e70-b9c8f2d48abc.png)
   <br/>
   2.5	HomeController.java에 진입하면 아래의 에러가 발생하는데 아직 해결중입니다.
   <br/>
-  ![image](https://user-images.githubusercontent.com/74872542/212348795-a2607f89-73ae-4064-b138-e06025fae46e.png)
+  ![image](https://user-images.githubusercontent.com/74872542/212350598-969d33a4-b318-4816-b10c-3906b8942576.png)
   <br/><br/>
   
   
